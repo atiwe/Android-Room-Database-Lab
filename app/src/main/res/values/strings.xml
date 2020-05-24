@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">P1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="income">Inkomst: 0</string>
+    <string name="spending">Utgifter: 0</string>
+    <string name="Other">Övrigt: 0</string>
+    <string name="From">Från: </string>
+    <string name="To">Till: </string>
+    <string name="welcome_text1">Hej\u0020</string>
+    <string name="welcome_text2good">! Din ekonomi ser bra ut med ett överskott på\u0020</string>
+    <string name="welcome_text2bad">! Din ekonomi ser inte bra ut med ett underskott på\u0020</string>
+    <string name="welcome_text3"> kr.</string>
+    <string name="add_item_confirm">Tillagd i lista!</string>
+
+    <string-array name="incomeArray">
+        <item>Lön</item>
+        <item>Övrigt</item>
+    </string-array>
+
+    <string-array name="spending">
+        <item>Livsmedel</item>
+        <item>Fritid</item>
+        <item>Resor</item>
+        <item>Boende</item>
+        <item>Övrigt</item>
+    </string-array>
+    <string-array name="extra">
+        <item>Övrigt</item>
+    </string-array>
+
+    <integer-array name="spending_images">
+        <item>@drawable/gros</item>
+        <item>@drawable/gros</item>
+        <item>@drawable/gros</item>
+        <item>@drawable/gros</item>
+        <item>@drawable/gros</item>
+    </integer-array>
+
+<string name="title_activity_add_item">AddItemActivity</string></resources>
